@@ -1,0 +1,14 @@
+{
+	"show_debug": true,
+
+	"phpcs_sniffer_run": true,
+	"phpcs_command_on_save": true,
+	"phpcs_php_path": "C:\\Programs\\php-7.1.0-nts-Win32-VC14-x86\\php.exe",
+
+	"php_cs_fixer_on_save": false,
+	"phpcs_linter_run": true,
+
+	"phpcs_executable_path": "C:\\Programs\\php-7.1.0-nts-Win32-VC14-x86\\phpcs.bat",
+	"phpmd_executable_path": "",
+	"php_cs_fixer_executable_path": ""
+}

@@ -1,0 +1,56 @@
+{
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.css.map",
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
+	"draw_minimap_border": true,
+	"fade_fold_buttons": false,
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"ApplySyntax",
+		"LaTeXing",
+		"Markdown",
+		"nginx",
+		"Phpcs",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"bower_components*",
+		"*.log",
+		"node_modules*"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_definitions": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Default.sublime-theme",
+	"update_check": false
+}
